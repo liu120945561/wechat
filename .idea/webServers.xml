@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="653b226d-dce7-4d90-af94-1a48256c2f2e" name="autoupload" url="http://203.137.179.197">
+        <fileTransfer host="203.137.179.197" port="22" privateKey="C:\ssh_key\lab_rsa.rsa" rootFolder="/data/wwwroot/wechat.liudaowen.com" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
